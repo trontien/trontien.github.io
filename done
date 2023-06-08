@@ -98,13 +98,13 @@
           <br/>
           <a id="Facebook" onClick="Facebook()">
             <div class="Facebook">
-              <i class="bi bi-facebook">&nbsp; </i>Facebook (507K+)
+              <i class="bi bi-facebook">&nbsp; </i>Facebook (114K+)
             </div>
           </a>
           <br/>
           <a id="Youtube" onClick="Youtube()">
             <div class="Youtube">
-              <i class="bi bi-youtube">&nbsp; </i>Youtube (3K+)
+              <i class="bi bi-youtube">&nbsp; </i>Youtube (2k+)
             </div>
           </a>
           <br/>
@@ -116,7 +116,7 @@
           <br/>
           <a id="Instagram" onClick="Instagram()">
             <div class="Instagram">
-              <i class="bi bi-instagram">&nbsp; </i>Instagram (7+)
+              <i class="bi bi-instagram">&nbsp; </i>Instagram (200+)
             </div>
           </a>
           <br/>
