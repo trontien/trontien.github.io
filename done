@@ -2,11 +2,11 @@
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
-    <meta name="description" content="Trang chủ thanhdieu.com, chuyên chia sẽ thủ thuật không gian mạng.">
+    <meta name="description" content="Trang chủ trongtien, chuyên chia sẽ thủ thuật không gian mạng.">
     <meta name="author" content="ThanhDieuTV">
-    <meta name="keywords" content="ThanhDieu. Com, tPhanhdieu. com, Thanh diệu, Vương Thanh Diệu, ThanhDieuTV, thanh diệu tv, thanh diệu chấm cơm">
+    <meta name="keywords" content="Trọng tiến trong tien ">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
-    <link rel="shortcut icon" href="//i.imgur.com/LC5mbkf.jpg" type="image/x-icon">
+    <link rel="shortcut icon" href="//i.imgur.com/OUaoU3t.jpg" type="image/x-icon">
     <title>TRONGTIEN - HOME</title>
     <link rel="stylesheet" href="./thanhdieuft-data/css/index.css">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.7.2/font/bootstrap-icons.css">
@@ -14,7 +14,7 @@
     <meta property="og:title" content="WELCOME TO TRONGTIEN - HOME">
     <meta property="og:type" content="website">
     <meta property="og:url" content="//thanhdieu.com">
-    <meta property="og:image" content="//i.imgur.com/LC5mbkf.jpg">
+    <meta property="og:image" content="//i.imgur.com/OUaoU3t.jpg">
     <meta name="theme-color" content="#00FFFF">
   </head>
   <!--<div id="particles-js"></div>-->
